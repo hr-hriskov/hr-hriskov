@@ -3,9 +3,9 @@
 - 🧮 I love programming, machine learning, data
 - 🌳 In my free time I workout, read, play the guitar
 
-[![Hristo's github stats](https://github-readme-stats.vercel.app/api?username=hr-hriskov&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/hr-hriskov/github-readme-stats)
+<!-- [![Hristo's github stats](https://github-readme-stats.vercel.app/api?username=hr-hriskov&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/hr-hriskov/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-hriskov)](https://github.com/hr-hriskov/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hr-hriskov)](https://github.com/hr-hriskov/github-readme-stats) -->
 
 <!--
 **hr-hriskov/hr-hriskov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
